@@ -35,17 +35,21 @@ public class House
 		private Boolean has_swimming_pool = false;
 		
 		public HouseBuilder(String name) {
+			this.name = name;
 		}
 		
 		public HouseBuilder age(int age) {
+			this.age = age;
 			return this;
 		}
 		
 		public HouseBuilder rooms(int rooms) {
+			this.rooms = rooms;
 			return this;
 		}
 
 		public HouseBuilder address(String address) {
+			this.address = address;
 			return this;
 		}
 		
