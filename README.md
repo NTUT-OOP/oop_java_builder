@@ -11,7 +11,7 @@ java HouseBuilderTest
 
 The expected output are:
 ```
-House: 先鋒大樓
+House: Pioneer Buidling
 Age: 1, Rooms: 100, Swimming Pool: false
-Address: 忠孝東路3段1號
+Address: No. 1, ZhongXiao East Road
 ```
